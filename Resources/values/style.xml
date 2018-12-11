@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<resources>
+  
+  <style name="MathButton" parent="Theme.AppCompat.Light">
+    <item name="colorControlHighlight">#333</item>
+    <item name="android:textSize">40sp</item>
+    <item name="android:textColor">#333</item>
+  </style>
+
+ <style name="NumButton" parent="Theme.AppCompat.Light">
+    <item name="colorControlHighlight">#333</item>
+  <item name="android:textSize">40sp</item>
+  <item name="android:textColor">#333</item>
+  </style>
+
+  <style name="MathButtonh" parent="Theme.AppCompat.Light">
+    <item name="colorControlHighlight">#fff</item>
+    <item name="android:textSize">25sp</item>
+    <item name="android:textColor">#fff</item>
+  </style>
+
+  <style name="NumButtonh" parent="Theme.AppCompat.Light">
+    <item name="colorControlHighlight">#fff</item>
+    <item name="android:textSize">25sp</item>
+    <item name="android:textColor">#fff</item>
+   </style>
+  </resources>
